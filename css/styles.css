@@ -46,8 +46,14 @@ body {
 
 .section {
     padding-top: 94px;
+    
+}
+
+.section-team,
+.section-portfolio {
     padding-bottom: 94px;
 }
+
 
 
 .container {
