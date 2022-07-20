@@ -49,6 +49,7 @@ body {
     padding-bottom: 94px;
 }
 
+
 .container {
     width: 1200px;
     margin-left: auto;
@@ -348,6 +349,8 @@ body {
 
 .hero {
     text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 .main-title {
@@ -409,5 +412,10 @@ body {
 .contact-footer:hover,
 .contact-footer:focus {
     color: var(--accent-color);
+}
+
+.footer-container {
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 /* ========== Footer ========== */
